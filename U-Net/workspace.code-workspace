@@ -1,0 +1,22 @@
+{
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Python: lcs_unet",
+				"type": "python",
+				"request": "launch",
+				"program": "train_network.py",
+				"console": "integratedTerminal"
+			}
+		]
+	},
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
